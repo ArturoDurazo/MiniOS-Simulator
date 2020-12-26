@@ -20,3 +20,4 @@ To make this MiniOS a bit more dynamic, the user can modify certain parameters t
 
 Note: It sounds a bit more complicated that it really is but you will get a clear idea once you start running the program
 
+![](Images/mini%20OS.PNG)
